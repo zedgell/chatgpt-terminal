@@ -1,6 +1,6 @@
 # chatgpt-terminal
 
-#Setup
+# Setup
 ```bash
 cargo install --path .
 export OPENAI_API_KEY={you-openai-key}
